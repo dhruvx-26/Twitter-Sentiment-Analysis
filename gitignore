@@ -1,0 +1,14 @@
+# Dataset (too large for GitHub)
+sentiment140.zip
+sentiment140/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
