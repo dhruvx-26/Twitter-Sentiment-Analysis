@@ -15,8 +15,8 @@ Sentiment140 — 1.6M labeled tweets from [Kaggle](https://www.kaggle.com/datase
 ## Results
 | Data | Accuracy |
 |------|----------|
-| Training | 81% |
-| Testing | 77.8% |
+| Training | 79.8% |
+| Testing | 77.6% |
 
 ## How to Run
 1. Download dataset from Kaggle
